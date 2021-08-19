@@ -1,6 +1,4 @@
-rootProject.name = '5Ions-weightsAdjustment'
+rootProject.name = 'weights-adjustment'
 
-include 'weightsAdjustment.client',
-        'weightsAdjustment.model',
-        'weightsAdjustment.service',
-        'weightsAdjustment.controller'
+include 'weights-adjustment.entity',
+        'weights-adjustment.service'
